@@ -22,7 +22,7 @@ namespace Utulitarios
                 // 10% de desconto
                 ValorDesconto = ValorVenda - (ValorVenda * 0.10);
             }
-            else if(ValorVenda >= 5000 && < 20000)
+            else if (ValorVenda >= 5000 && ValorVenda < 20000)
             {
                 // 50% de desconto
                 ValorDesconto = ValorVenda - (ValorVenda * 0.5);
@@ -30,9 +30,8 @@ namespace Utulitarios
             else
             {
                 // Sem desconto
-                ValorDesconto = ValorVenda * 0.0;
+                ValorDesconto = ValorVenda - (ValorVenda * 0.0);
             }
-
             return ValorDesconto;
         }
     }

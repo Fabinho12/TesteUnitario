@@ -1,0 +1,5 @@
+C:\Users\fabio\source\repos\Utulitarios\Utulitarios\bin\Debug\Utulitarios.dll
+C:\Users\fabio\source\repos\Utulitarios\Utulitarios\bin\Debug\Utulitarios.pdb
+C:\Users\fabio\source\repos\Utulitarios\Utulitarios\obj\Debug\Utulitarios.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Utulitarios\Utulitarios\obj\Debug\Utulitarios.dll
+C:\Users\fabio\source\repos\Utulitarios\Utulitarios\obj\Debug\Utulitarios.pdb

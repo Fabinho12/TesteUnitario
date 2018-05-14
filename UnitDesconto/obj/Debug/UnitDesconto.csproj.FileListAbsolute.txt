@@ -1,0 +1,11 @@
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\bin\Debug\UnitDesconto.dll
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\bin\Debug\UnitDesconto.pdb
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\bin\Debug\nunit.framework.dll
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\bin\Debug\Utulitarios.dll
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\bin\Debug\Utulitarios.pdb
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\bin\Debug\nunit.framework.pdb
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\bin\Debug\nunit.framework.xml
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\obj\Debug\UnitDesconto.csprojResolveAssemblyReference.cache
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\obj\Debug\UnitDesconto.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\obj\Debug\UnitDesconto.dll
+C:\Users\fabio\source\repos\Utulitarios\UnitDesconto\obj\Debug\UnitDesconto.pdb
